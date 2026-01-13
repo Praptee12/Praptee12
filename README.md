@@ -1,4 +1,7 @@
 # 💫 About Me:
+<a target="_blank" align="center">
+  <img style="object-fit: cover; object-position: center;" align="right" height="180" width="220" alt="GIF" src="/praptee.gif">
+</a>
 🎓 Computer Engineering Student passionate about technology<br>🌐 Beginner in Web Development, currently learning how the web works<br>💻 Familiar with HTML, CSS, JavaScript, and exploring modern frameworks<br>⚛️ Learning React and building small projects to improve my skills<br>📚 Constantly learning and improving through practice and projects
 
 
